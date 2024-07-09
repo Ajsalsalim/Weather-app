@@ -1,4 +1,5 @@
 # Weather-app
+# Project is in the MASTER Branch
 clone the project using  #git clone url
 
 Frontend{
